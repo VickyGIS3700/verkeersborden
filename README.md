@@ -20,6 +20,7 @@ Het zou ideaal zijn indien we alle symbolen als SVG konden voorstellen, om op di
 ![image](https://user-images.githubusercontent.com/32510519/151792166-50224417-191d-4983-ba85-31f2302eb40e.png)
 <br><br>
 
-**STAP 4**: <br>Nu kan je de xml-file in QGIS importeren via de QGIS style manager.<br>
+**STAP 4**: <br>Nu kan je de xml-file in QGIS importeren via de QGIS style manager. <br>
+Vul bij 'tag' verkeersborden in.
 ![image](https://user-images.githubusercontent.com/32510519/151772295-6ba41ba2-7d2b-4a3f-a413-e110a4e10cfe.png)
 
